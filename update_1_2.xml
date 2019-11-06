@@ -1,0 +1,46 @@
+
+Admin panel > src > AppBundle > Controller > HomeController.php
+Admin panel > src > AppBundle > Controller > RingtoneController.php
+Admin panel > src > AppBundle > Form > RingtoneReviewType.php
+
+Gradle Scripts > build.gradle (Module: app)
+res > drawable > bg_dialog.xml
+res > drawable > bg_category_mini.xml
+res > drawable > bg_facebook_btn.xml
+res > drawable > bg_google_btn.xml
+res > drawable > bg_google_icon.xml
+res > drawable > bg_btn_cancel.xml
+res > drawable > ic_check.xml
+res > drawable > ic_panorama.xml
+
+
+res > layout > dialog_rating_app.xml
+res > layout > dialog_subscribe.xml
+res > layout > activity_search.xml
+res > layout > activity_edit.xml
+res > layout > activity_upload.xml
+res > layout > activity_support.xml
+res > layout > activity_category.xml
+res > layout > fragment_home.xml
+res > layout > fragment_user.xml
+res > layout > fragment_follow.xml
+res > layout > fragment_popular.xml
+res > layout > fragment_download.xml
+res > layout > activity_ringtone.xml
+res > layout > item_slide.xml
+res > layout > item_slide_one.xml
+res > layout > item_tags.xml
+res > layout > item_ringtone.xml
+res > layout > app_bar_main.xml
+res > layout > activity_login.xml
+res > layout > item_tag.xml
+res > layout > item_categories_mini.xml
+res > layout > item_category_mini.xml
+res > layout > item_category.xml
+res > values > styles.xml
+res > values > strings.xml
+Adapters > TagAdapter.java
+ui > Activities > MainActivity.java
+ui > Activities > LoginActivity
+ui > Activities > RingtoneActivity
+
